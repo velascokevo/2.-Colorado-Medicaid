@@ -1,3 +1,5 @@
+#2.-Colorado-Medicaid
+
 This repository contains the data and the RStudio code used to analyze immigration trends in Colorado presented in the article "Medicaid in Colorado: Pre- and post-Pandemic Trends, and OBBBA's Looming Cuts."
 
 The data derives from Data.Medicaid.Gov, the Colorado Department of Health Care Policy and Financing, the Colorado Department of Local Affairs, and the U.S. Census Bureau.
