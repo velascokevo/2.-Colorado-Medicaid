@@ -1,4 +1,4 @@
-#2.-Colorado-Medicaid
+# 2.-Colorado-Medicaid
 
 This repository contains the data and the RStudio code used to analyze immigration trends in Colorado presented in the article "Medicaid in Colorado: Pre- and post-Pandemic Trends, and OBBBA's Looming Cuts."
 
