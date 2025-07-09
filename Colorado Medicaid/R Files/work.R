@@ -26,7 +26,7 @@ library(sf)
 ### Setting up directories
 ############################################################
 
-setwd("/Users/velas/Documents/Acadmic Writings/Colorado Medicaid")
+setwd("YOUR DIRECTORY GOES HERE")
 
 ############################################################
 ### Loading in data
